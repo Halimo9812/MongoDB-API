@@ -1,0 +1,4 @@
+.env
+node_modules
+loadEnv.js
+package-lock.json
